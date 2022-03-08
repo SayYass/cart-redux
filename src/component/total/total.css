@@ -1,0 +1,24 @@
+.total{
+    width: 90%;
+    display: block;
+}
+
+.total .title{
+    width: 100%;
+    display: block;
+    text-align: left;
+    margin: 1rem 0;
+}
+
+.total .total-detail{
+    width: 100%;
+    display: block;
+    text-align: left;
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+.total .total-detail .detail{
+    display: flex;
+    justify-content: space-between;
+}
